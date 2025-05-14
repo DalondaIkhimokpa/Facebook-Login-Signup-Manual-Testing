@@ -57,9 +57,9 @@ This project focuses exclusively on the **Login** and **Signup** features of the
 ---
 ## Artifacts Included:
 
-Test cases with expected vs. actual results
-Defect logs (priority/severity classification)
-Compatibility testing notes (browsers/devices)
+- Test cases with expected vs. actual results
+- Defect logs (priority/severity classification)
+- Compatibility testing notes (browsers/devices)
 
 #  Facebook Login/Signup Testing Project
 
